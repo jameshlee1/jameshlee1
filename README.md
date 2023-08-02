@@ -1,17 +1,19 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is James H Lee
-====================================================================================================================================
 
-Software Developer | U.S. Army Veteran
-----------------------------------------
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm James
+
+
+[![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/jameshlee1)](https://github.com/jameshlee1)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/james-lee-11b20/)](https://www.linkedin.com/in/james-lee-11b20/)
 
 * 📍 I'm based in San Diego, CA
-* 📧  You can contact me [Here](mailto:james.h.lee3@outlook.com)
+* 📧 You can contact me [Here](mailto:james.h.lee3@outlook.com)
 * 👨🏻‍💻 I'm currently working on everything Ruby on Rails
-* 🧠  I'm learning everything on Ruby on Rails
+* 🧠 I'm learning everything Ruby on Rails
 * 👨🏻 pronouns: he/him
 * 🗣️ fun fact: I jumped out of perfectly fine airplanes in the Army
 
- <a href="http://www.github.com/jameshlee1"><img src="https://github-readme-stats.vercel.app/api?username=jameshlee1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jameshlee1's GitHub stats" /></a>
+
 
 ### My Tech Stack
 
@@ -33,8 +35,16 @@ Software Developer | U.S. Army Veteran
 </p>
 
 
-### Socials
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jameshlee1&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="James's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jameshlee1&theme=github_dark&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-<p align="left"> <a href="https://www.github.com/jameshlee1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/james-lee-11b20/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+## Top repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jameshlee1&repo=concert-go-backend&theme=github_dark)](https://github.com/jameshlee1/concert-go-backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jameshlee1&repo=concert-go-frontend&theme=github_dark)](https://github.com/jameshlee1/concert-go-frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jameshlee1&repo=cat-tinder-backend&theme=github_dark)](https://github.com/jameshlee1/cat-tinder-backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jameshlee1&repo=cat-tinder-frontend&theme=github_dark)](https://github.com/jameshlee1/cat-tinder-frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jameshlee1&repo=treasure-hunt&theme=github_dark)]([https://github.com/kevinfengcs88/python-projects](https://github.com/jameshlee1/treasure-hunt))
+
+
 
 
