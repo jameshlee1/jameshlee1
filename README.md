@@ -8,9 +8,9 @@
 
 * 📍 I'm based in San Diego, CA
 * 📧 You can contact me [Here](mailto:james.h.lee3@outlook.com)
-* 👨🏻‍💻 I'm currently working on everything Ruby on Rails
+* 👨🏻‍💻 I'm currently working on Ruby on Rails SeatView application
 * 🧠 I'm learning everything Ruby on Rails
-* 👨🏻 pronouns: he/him
+* 👨🏻 pronouns: he/him/his
 * 🗣️ fun fact: I jumped out of perfectly fine airplanes in the Army
 
 
