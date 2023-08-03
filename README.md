@@ -43,6 +43,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jameshlee1&repo=concert-go-frontend&theme=github_dark)](https://github.com/jameshlee1/concert-go-frontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jameshlee1&repo=cat-tinder-backend&theme=github_dark)](https://github.com/jameshlee1/cat-tinder-backend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jameshlee1&repo=cat-tinder-frontend&theme=github_dark)](https://github.com/jameshlee1/cat-tinder-frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jameshlee1&repo=treasure-hunt&theme=github_dark)](https://github.com/jameshlee1/treasure-hunt)
 
 
 
