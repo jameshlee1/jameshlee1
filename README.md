@@ -35,8 +35,10 @@
 </p>
 
 
-| <a href="https://github.com/jameshlee1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jameshlee1&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="James's github stats" /></a> | <a href="https://github.com/jameshlee1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jameshlee1&theme=github_dark&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/jameshlee1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jameshlee1&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="James's github stats" /></a> | <a href="https://github.com/jameshlee1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jameshlee1&size_weight=0.5&count_weight=0.5&theme=github_dark&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+
 
 ## Top repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jameshlee1&repo=concert-go-backend&theme=github_dark)](https://github.com/jameshlee1/concert-go-backend)
