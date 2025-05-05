@@ -53,16 +53,11 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jameshlee1&repo=SpringSocialMediaBlog&theme=github_dark)](https://github.com/jameshlee1/jameshlee1-SpringSocialMediaBlog)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jameshlee1&repo=SocialMediaBlog&theme=github_dark)](https://github.com/jameshlee1/jameshlee1-SocialMediaBlog)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jameshlee1&repo=FlightTracker&theme=github_dark)](https://github.com/jameshlee1/jameshlee1-FlightTracker)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jameshlee1&repo=jameshlee1-PigLatin&theme=github_dark)](https://github.com/jameshlee1/jameshlee1-PigLatin)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jameshlee1&repo=GuessingGame&theme=github_dark)](https://github.com/jameshlee1/jameshlee1-GuessingGame)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jameshlee1&repo=jameshlee1-BankAccount&theme=github_dark)](https://github.com/jameshlee1/jameshlee1-BankAccount)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jameshlee1&repo=GuessingGame&theme=github_dark)](https://github.com/jameshlee1/jameshlee1-GuessingGame)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jameshlee1&repo=jameshlee1-Pyramid&theme=github_dark)](https://github.com/jameshlee1/jameshlee1-Pyramid)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jameshlee1&repo=jameshlee1-PigLatin&theme=github_dark)](https://github.com/jameshlee1/jameshlee1-PigLatin)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jameshlee1&repo=jameshlee1-WordCountMap&theme=github_dark)](https://github.com/jameshlee1/jameshlee1-WordCountMap)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jameshlee1&repo=concert-go-backend&theme=github_dark)](https://github.com/jameshlee1/concert-go-backend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jameshlee1&repo=concert-go-frontend&theme=github_dark)](https://github.com/jameshlee1/concert-go-frontend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jameshlee1&repo=cat-tinder-backend&theme=github_dark)](https://github.com/jameshlee1/cat-tinder-backend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jameshlee1&repo=cat-tinder-frontend&theme=github_dark)](https://github.com/jameshlee1/cat-tinder-frontend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jameshlee1&repo=treasure-hunt&theme=github_dark)](https://github.com/jameshlee1/treasure-hunt)
 
 
 
