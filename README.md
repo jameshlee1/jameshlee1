@@ -28,7 +28,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373829/maven.svg" width="36" height="36" alt="Maven" /></a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" width="36" height="36" alt="Spring" /></a> 
-<a href="https://site.mockito.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/mockito/mockito.github.io/master/img/logo%402x.png" width="36" height="36" alt="Mockito" /></a>
+<a href="https://site.mockito.org/" target="_blank" rel="noreferrer"><img src="https://discoversdkcdn.azureedge.net/postscontent/mockito3.jpg" width="36" height="36" alt="Mockito" /></a>
 <a href="https://junit.org/" target="_blank" rel="noreferrer"><img src="https://junit.org/junit5/assets/img/junit5-logo.png" width="36" height="36" alt="JUnit" /></a> 
 <a href="https://javalin.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/28701086?s=48&v=4" width="36" height="36" alt="Javalin" /></a>  
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
