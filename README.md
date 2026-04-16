@@ -18,7 +18,7 @@
 ### My Tech Stack
 
 
-<p align="left">
+
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -40,7 +40,7 @@
 <a href="https://www.apple.com/macos/macos-sequoia/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
 <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=M9BRw0RJZXKi&format=png&color=000000" width="36" height="36" alt="WindowsOS" /></a>
 
-</p>
+
 
 
 | <a href="https://github.com/jameshlee1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jameshlee1&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="James's github stats" /></a> | <a href="https://github.com/jameshlee1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jameshlee1&size_weight=0.5&count_weight=1&theme=github_dark&layout=compact&hide_border=true" /></a> |
