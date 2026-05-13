@@ -6,7 +6,7 @@
 [![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/jameshlee1)](https://github.com/jameshlee1)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/james-lee-11b20/)](https://www.linkedin.com/in/james-lee-11b20/)
 
-* 📍 I'm based in San Diego, CA
+* 📍 I'm based in Fairfax, VA
 * 📧 You can contact me [Here](mailto:james.h.lee3@outlook.com)
 * 👨🏻‍💻 I'm currently working on Spring Social Media Blog application
 * 🧠 I'm learning everything Spring Framework, Spring Boot & Spring Web
